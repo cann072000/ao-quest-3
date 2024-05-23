@@ -1,5 +1,5 @@
 # ao-quest-3
-PID :EXptKwnOP0bDCpqsVpfz2kzmywvggp_83j37dSfwBWQ
+PID: EXptKwnOP0bDCpqsVpfz2kzmywvggp_83j37dSfwBWQ
 
 Dynamic Strategy Switching:
 The bot changes its strategy when its energy is low, either by escaping from the nearest enemy or searching for energy packs.
